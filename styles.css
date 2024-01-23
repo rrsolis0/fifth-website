@@ -1,0 +1,17 @@
+table, th, td {
+    border: 1px solid black;
+}
+body {
+    background-image: 
+    url(https://st2.depositphotos.com/2124221/46129/i/600/depositphotos_461291774-stock-photo-creative-prismatic-background-polygonal-pattern.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+}
+.table, th, td{
+    height: 80px;
+    width: 150px;
+    background: floralwhite;
+    margin: 80px;
+ 
+}
